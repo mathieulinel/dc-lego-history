@@ -1,2 +1,2 @@
 # dc-lego-history
-Exploring the history of Lego
+Parsing and visualizing the history of Lego using pandas, matplotlib
